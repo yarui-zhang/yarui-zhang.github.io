@@ -10,6 +10,7 @@ profile:
 
   more_info: >
     <p>Office: 2S86, ENS Paris-Saclay</p>
+    <p>ENS Paris-Saclay</p>
     <p>4 Av. des Sciences</p>
     <p>91190 Gif-sur-Yvette</p>
 
