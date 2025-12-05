@@ -2,18 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, SATIE, ENS Paris-Saclay – Université Paris-Saclay, France
-
+subtitle:
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   <small>
-    <p>Office: 2S86, ENS Paris-Saclay</p>
-    <p>4 Av. des Sciences</p>
-    <p>91190 Gif-sur-Yvette</p>
-   </small>
+  <p>Office: 2S86</p>
+  <p>ENS Paris-Saclay</p>
+  <p>4 Av. des Sciences</p>
+  <p>91190 Gif-sur-Yvette</p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
