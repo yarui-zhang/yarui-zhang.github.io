@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-12 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am looking for motivated **Master interns and PhD students** in computational imaging, and physics-informed machine learning.  
+See details in [Topic 1](/assets/pdf/Offre_Stage1_M2_SATIE_ENS_PS.pdf), [Topic 2](/assets/pdf/Offre_Stage2_M2_SATIE_ENS_PS.pdf).
