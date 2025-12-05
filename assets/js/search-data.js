@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-joined-ens-paris-saclay-as-a-maître-de-conférences-assistant-associate-professor-smile",
-          title: 'I joined ENS Paris-Saclay as a Maître de conférences (assistant/associate professor). :smile:',
+            },},{id: "news-i-joined-ens-paris-saclay-as-a-maître-de-conférences-smile",
+          title: 'I joined ENS Paris-Saclay as a Maître de conférences. :smile:',
           description: "",
           section: "News",},{id: "news-i-am-looking-for-motivated-master-interns-and-phd-students-in-computational-imaging-and-physics-informed-machine-learning-see-details-in-topic-1-topic-2",
           title: 'I am looking for motivated Master interns and PhD students in computational imaging,...',
