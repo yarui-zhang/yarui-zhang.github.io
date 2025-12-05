@@ -12,7 +12,7 @@ profile:
     <p>Office: 2S86</p>
     <p>ENS Paris-Saclay</p>
     <p>4 Av. des Sciences</p>
-    <p>91190 Gif-sur-Yvette</p>
+    <p>91190 Gif/Yvette</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
