@@ -37,11 +37,12 @@ I am an assistant professor in the [DER SIEN](https://sien.ens-paris-saclay.fr/)
 
 ### Education
 
-- **Ph.D. in Electrical Engineering**, [GeePs](https://www.geeps.centralesupelec.fr/index.php?page=home), CentraleSupélec, Université Paris-Saclay, France  
-  *2019 – 2022*  
+- *2019 – 2022*  **Ph.D. in Electrical Engineering**
+  [GeePs](https://www.geeps.centralesupelec.fr/index.php?page=home), CentraleSupélec, Université Paris-Saclay, France  
 
-- **M.Sc. in Control, Signal and Image Processing**, Université Paris-Saclay, France  
-  *2017 – 2019*  
+- *2017 – 2019*  **M.Sc. in Control, Signal and Image Processing**
+  Université Paris-Saclay, France  
 
-- **B.Eng. in Electronics and Information Engineering**, [Xidian University](https://en.xidian.edu.cn/), China
-  *2014 – 2018*  
+- *2014 – 2018*  **B.Eng. in Electronics and Information Engineering**
+  [Xidian University](https://en.xidian.edu.cn/), China
+
