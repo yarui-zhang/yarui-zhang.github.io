@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
   more_info: >
-    <p>Office: 2S86, ENS Paris-Saclay</p>
+    <p>Office: 2S86</p>
     <p>ENS Paris-Saclay</p>
     <p>4 Av. des Sciences</p>
     <p>91190 Gif-sur-Yvette</p>
