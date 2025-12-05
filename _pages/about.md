@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: >Assistant Professor, SATIE, ENS Paris-Saclay – Université Paris-Saclay, France<br>
+subtitle: Assistant Professor, SATIE, ENS Paris-Saclay – Université Paris-Saclay, France
 
 profile:
   align: right
