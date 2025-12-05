@@ -391,16 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-joined-ens-paris-saclay-as-a-maître-de-conférences-assistant-associate-professor-smile",
+          title: 'I joined ENS Paris-Saclay as a Maître de conférences (assistant/associate professor). :smile:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-am-looking-for-motivated-master-interns-and-phd-students-in-computational-imaging-and-physics-informed-machine-learning-see-details-in-topic-1-topic-2",
+          title: 'I am looking for motivated Master interns and PhD students in computational imaging,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
