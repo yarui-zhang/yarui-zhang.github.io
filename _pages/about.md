@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: About
 profile:
   align: right
   image: prof_yarui.png
