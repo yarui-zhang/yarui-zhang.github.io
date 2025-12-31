@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-08'
+  last_updated: '2025-12-31'
 papers:
   _UbI0RIAAAAJ:2osOgNQ5qMEC:
-    citations: 39
+    citations: 41
     title: Unrolled convolutional neural network for full-wave inverse scattering
     year: '2022'
   _UbI0RIAAAAJ:9yKSN-GCB0IC:
@@ -14,7 +14,7 @@ papers:
     title: Use of implicit regularization for estimating the number of sources in blind source separation
     year: '2019'
   _UbI0RIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: Statistical Analysis of RF-EMF Exposure Induced by Cellular Wireless Networks in Public Transportation Facilities of the Paris Region
     year: '2024'
   _UbI0RIAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: 'ExposNet: A deep learning framework for EMF exposure prediction in complex urban environments'
     year: '2025'
   _UbI0RIAAAAJ:Y0pCki6q_DkC:
-    citations: 7
+    citations: 8
     title: Assessment of emf exposure induced by wireless cellular phones in various usage scenarios in france
     year: '2024'
   _UbI0RIAAAAJ:YsMSGLbcyi4C:
@@ -46,7 +46,7 @@ papers:
     title: Assessment of RF-EMF Exposure in Shopping Centers and Covered Markets in Paris
     year: '2024'
   _UbI0RIAAAAJ:qjMakFHDy7sC:
-    citations: 8
+    citations: 9
     title: RF electromagnetic fields exposure monitoring using drive test and sensors in a French city
     year: '2023'
   _UbI0RIAAAAJ:u-x6o8ySG0sC:
@@ -62,6 +62,6 @@ papers:
     title: "Comprehensive Measurement\u2010Based Assessment of Downlink RF\u2010EMF Exposure in Urban Environments: Multi\u2010Method Analysis and Intercomparison"
     year: '2025'
   _UbI0RIAAAAJ:zYLM7Y9cAGgC:
-    citations: 20
+    citations: 21
     title: Assessment of radio frequency electromagnetic field exposure induced by base stations in several micro-environments in France
     year: '2024'
