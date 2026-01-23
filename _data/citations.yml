@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-23'
 papers:
   _UbI0RIAAAAJ:2osOgNQ5qMEC:
     citations: 41
@@ -14,7 +14,7 @@ papers:
     title: Use of implicit regularization for estimating the number of sources in blind source separation
     year: '2019'
   _UbI0RIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: Statistical Analysis of RF-EMF Exposure Induced by Cellular Wireless Networks in Public Transportation Facilities of the Paris Region
     year: '2024'
   _UbI0RIAAAAJ:UeHWp8X0CEIC:
@@ -62,6 +62,6 @@ papers:
     title: "Comprehensive Measurement\u2010Based Assessment of Downlink RF\u2010EMF Exposure in Urban Environments: Multi\u2010Method Analysis and Intercomparison"
     year: '2025'
   _UbI0RIAAAAJ:zYLM7Y9cAGgC:
-    citations: 21
+    citations: 22
     title: Assessment of radio frequency electromagnetic field exposure induced by base stations in several micro-environments in France
     year: '2024'
