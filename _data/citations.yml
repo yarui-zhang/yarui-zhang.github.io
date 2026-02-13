@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-13'
 papers:
   _UbI0RIAAAAJ:2osOgNQ5qMEC:
     citations: 41
@@ -30,13 +30,17 @@ papers:
     title: 'ExposNet: A deep learning framework for EMF exposure prediction in complex urban environments'
     year: '2025'
   _UbI0RIAAAAJ:Y0pCki6q_DkC:
-    citations: 9
+    citations: 10
     title: Assessment of emf exposure induced by wireless cellular phones in various usage scenarios in france
     year: '2024'
   _UbI0RIAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: Assessment of RF-EMF Exposure Induced by Cellular Wireless Networks in Public Transportation Facilities of the Paris Region
     year: '2024'
+  _UbI0RIAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Characterization of EMF exposure induced by French cellular networks
+    year: '2026'
   _UbI0RIAAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: 'Use of sparsity in nonlinear electromagnetic imaging: wavelet-based contrast source method'
@@ -62,6 +66,6 @@ papers:
     title: "Comprehensive Measurement\u2010Based Assessment of Downlink RF\u2010EMF Exposure in Urban Environments: Multi\u2010Method Analysis and Intercomparison"
     year: '2025'
   _UbI0RIAAAAJ:zYLM7Y9cAGgC:
-    citations: 22
+    citations: 23
     title: Assessment of radio frequency electromagnetic field exposure induced by base stations in several micro-environments in France
     year: '2024'
