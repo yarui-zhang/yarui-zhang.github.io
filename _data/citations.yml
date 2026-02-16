@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-16'
 papers:
   _UbI0RIAAAAJ:2osOgNQ5qMEC:
-    citations: 41
+    citations: 43
     title: Unrolled convolutional neural network for full-wave inverse scattering
     year: '2022'
   _UbI0RIAAAAJ:9yKSN-GCB0IC:
-    citations: 9
+    citations: 10
     title: Group sparsity penalized contrast source solution method for 2-D non-linear inverse scattering
     year: '2021'
   _UbI0RIAAAAJ:IjCSPb-OGe4C:
@@ -15,7 +15,7 @@ papers:
     year: '2019'
   _UbI0RIAAAAJ:Tyk-4Ss8FVUC:
     citations: 6
-    title: Statistical Analysis of RF-EMF Exposure Induced by Cellular Wireless Networks in Public Transportation Facilities of the Paris Region
+    title: Statistical analysis of RF-EMF exposure induced by cellular wireless networks in public transportation facilities of the Paris region
     year: '2024'
   _UbI0RIAAAAJ:UeHWp8X0CEIC:
     citations: 0
@@ -30,8 +30,8 @@ papers:
     title: 'ExposNet: A deep learning framework for EMF exposure prediction in complex urban environments'
     year: '2025'
   _UbI0RIAAAAJ:Y0pCki6q_DkC:
-    citations: 10
-    title: Assessment of emf exposure induced by wireless cellular phones in various usage scenarios in france
+    citations: 11
+    title: Assessment of EMF exposure induced by wireless cellular phones in various usage scenarios in France
     year: '2024'
   _UbI0RIAAAAJ:YsMSGLbcyi4C:
     citations: 0
