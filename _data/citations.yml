@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-16'
 papers:
   _UbI0RIAAAAJ:2osOgNQ5qMEC:
     citations: 45
@@ -30,7 +30,7 @@ papers:
     title: 'ExposNet: A deep learning framework for EMF exposure prediction in complex urban environments'
     year: '2025'
   _UbI0RIAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 12
     title: Assessment of EMF exposure induced by wireless cellular phones in various usage scenarios in France
     year: '2024'
   _UbI0RIAAAAJ:YsMSGLbcyi4C:
