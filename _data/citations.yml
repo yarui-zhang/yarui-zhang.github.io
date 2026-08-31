@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-31'
 papers:
   _UbI0RIAAAAJ:2osOgNQ5qMEC:
     citations: 55
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: Use of implicit regularization for estimating the number of sources in blind source separation
     year: '2019'
+  _UbI0RIAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: Measurement-Driven Deep Learning for Uplink RF Exposure Assessment in Urban Environments
+    year: '2026'
   _UbI0RIAAAAJ:Tyk-4Ss8FVUC:
     citations: 7
     title: Statistical analysis of RF-EMF exposure induced by cellular wireless networks in public transportation facilities of the Paris region
@@ -21,12 +25,16 @@ papers:
     citations: 0
     title: 'Non-linear electromagnetic imaging: from sparsity-preserving wavelet-based algorithms to deep learning'
     year: '2022'
+  _UbI0RIAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: EMF Exposure Assessment in Spatial and Temporal Scale with Uncertainty Quantification
+    year: '2026'
   _UbI0RIAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: Investigating on uplink transmitting power in a non-standalone NR network
     year: '2024'
   _UbI0RIAAAAJ:WF5omc3nYNoC:
-    citations: 9
+    citations: 10
     title: 'ExposNet: A deep learning framework for EMF exposure prediction in complex urban environments'
     year: '2026'
   _UbI0RIAAAAJ:Y0pCki6q_DkC:
