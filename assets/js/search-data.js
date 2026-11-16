@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -31,8 +24,8 @@ ninja.data = [{
             },},{id: "news-closed-i-am-looking-for-motivated-master-interns-and-phd-students-in-computational-imaging-and-physics-informed-machine-learning-see-details-in-topic-1-topic-2",
           title: '[CLOSED] I am looking for motivated Master interns and PhD students in computational...',
           description: "",
-          section: "News",},{id: "news-2027-ip-paris-csc-phd-scholarships-we-welcome-applicants-see-the-research-topic",
-          title: '2027 IP Paris–CSC PhD Scholarships: We welcome applicants. See the research topic.',
+          section: "News",},{id: "news-open-2027-ip-paris-csc-phd-scholarships-we-welcome-applicants-see-the-research-topic",
+          title: '[OPEN] 2027 IP Paris–CSC PhD Scholarships: We welcome applicants. See the research topic....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
