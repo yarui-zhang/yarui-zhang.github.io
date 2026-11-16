@@ -1,3 +1,3 @@
 - [M1 E3A - Voie André Ampère - ENS Paris-Saclay](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m1-e3a-voie-andre-ampere-ens-paris-saclay) : Méthodes statistiques pour le signal et l’apprentissage
 - [M2 Systèmes avancés de Radiocommunication (SAR) - Université Paris-Saclay](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-systemes-avances-de-radiocommunication-sar) : Mathematical Basis for Communications
-- [Formation Sciences pour l’ingénieur (Saphire) - ENS Paris-Saclay](https://ens-paris-saclay.fr/formations/departements/sciences-pour-lingenieur-saphire)
+- [Formation Sciences pour l’ingénieur (Saphire) - ENS Paris-Saclay](https://sien.ens-paris-saclay.fr/nos-formations/ldd3-sciences-pour-lingenieur-saphire)
