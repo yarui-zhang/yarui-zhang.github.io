@@ -1,12 +1,19 @@
 ---
-layout: page
+layout: null
 permalink: /teaching/
 title: Teaching
-description: 
-nav: true
-nav_order: 6
+nav: false
 ---
-
-- [M1 E3A - Voie André Ampère - ENS Paris-Saclay](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m1-e3a-voie-andre-ampere-ens-paris-saclay) : Méthodes statistiques pour le signal et l’apprentissage
-- [M2 Systèmes avancés de Radiocommunication (SAR) - Université Paris-Saclay](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-systemes-avances-de-radiocommunication-sar) : Mathematical Basis for Communications
-- [Formation Sciences pour l’ingénieur (Saphire) - ENS Paris-Saclay](https://ens-paris-saclay.fr/formations/departements/sciences-pour-lingenieur-saphire)
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}#teaching">
+    <link rel="canonical" href="{{ '/' | absolute_url }}#teaching">
+    <title>Teaching | {{ site.first_name }} {{ site.last_name }}</title>
+  </head>
+  <body>
+    <p><a href="{{ '/' | relative_url }}#teaching">View teaching on the homepage.</a></p>
+  </body>
+</html>

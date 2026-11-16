@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**2027 IP Paris–CSC PhD Scholarships:** We welcome applicants. See the [research topic](/assets/pdf/csc%20proposal.pdf).
+<strong style="color: #198754;">[OPEN]</strong> **2027 IP Paris–CSC PhD Scholarships:** We welcome applicants. See the [research topic](/assets/pdf/csc%20proposal.pdf).

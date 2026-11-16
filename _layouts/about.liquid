@@ -47,11 +47,17 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
+      <h2 id="news">News</h2>
       {% include news.liquid limit=true %}
     {% endif %}
+
+    {% include current_phd_students.liquid %}
+
+    <section id="teaching" class="mt-4" aria-labelledby="teaching-heading">
+      <h2 id="teaching-heading">Teaching</h2>
+      {% capture teaching_content %}{% include teaching.md %}{% endcapture %}
+      {{ teaching_content | markdownify }}
+    </section>
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
