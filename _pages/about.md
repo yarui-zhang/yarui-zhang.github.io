@@ -31,7 +31,7 @@ latest_posts:
 
 I am an assistant professor in the [DER SIEN](https://sien.ens-paris-saclay.fr/) (Département d’enseignement et de recherche de Sciences de l’ingénierie électrique et numérique) at [ENS Paris-Saclay](https://ens-paris-saclay.fr/) – [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), and I am affiliated with the [SATIE laboratory](https://satie.ens-paris-saclay.fr/fr) (Laboratoire des systèmes et applications des technologies de l’information et de l’énergie) in Gif-sur-Yvette, France. Prior to that, I was a postdoctoral fellow in the [C2M Chair](https://chairec2m.wp.imt.fr/en/accueil-english/) at [Télécom Paris](https://www.telecom-paris.fr/) from 2023 to 2025.
 
-I completed my Ph.D. in Electrical Engineering at [GeePs](https://www.geeps.centralesupelec.fr/index.php?page=home), CentraleSupélec, Université Paris-Saclay (2019–2022), an M.Sc. in Control, Signal and Image Processing at Université Paris-Saclay (2017–2019), and a B.Eng. in Electronics and Information Engineering at [Xidian University](https://en.xidian.edu.cn/), China (2014–2018).
+I completed my Ph.D. in Electrical Engineering at [GeePs](https://www.geeps.centralesupelec.fr/), CentraleSupélec, Université Paris-Saclay (2019–2022), an M.Sc. in Control, Signal and Image Processing at Université Paris-Saclay (2017–2019), and a B.Eng. in Electronics and Information Engineering at [Xidian University](https://en.xidian.edu.cn/), China (2014–2018).
 
 ### Research interests
 
